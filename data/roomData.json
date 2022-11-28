@@ -1,0 +1,42 @@
+[
+    {
+      "id": "634f6634a8c952430eb698e6",
+      "index": 0,
+      "picture": "https://premiumlayers.com/html/hotelbooking/img/room-image-five.png",
+      "name": "Double Room",
+      "bed": 1,
+      "quantity": 1,
+      "details": "Semper ac dolor vitae accumsan. interdum hendrerit lacinia.Phasellus accumsan urna vitae molestie interdum.",
+      "price": 123
+    },
+    {
+      "id": "634f66343bb3822375310de3",
+      "index": 1,
+      "picture": "https://premiumlayers.com/html/hotelbooking/img/room-image-nine.png",
+      "name": "Single Room",
+      "bed": 1,
+      "quantity": 2,
+      "details": "Semper ac dolor vitae accumsan. interdum hendrerit lacinia.Phasellus accumsan urna vitae molestie interdum.",
+      "price": 110
+    },
+    {
+      "id": "634f663442aa4c7337eb1562",
+      "index": 2,
+      "picture": "https://bytesed.com/tf/beyond-hotel/beyond_hotel/assets/img/blog/blog2.jpg",
+      "name": "Family Room",
+      "bed": 2,
+      "quantity": 4,
+      "details": "Semper ac dolor vitae accumsan. interdum hendrerit lacinia.Phasellus accumsan urna vitae molestie interdum.",
+      "price": 276
+    },
+    {
+        "id": "634f708fe8bbaf61ec7a0acd",
+        "index": 3,
+        "picture": "https://premiumlayers.com/html/hotelbooking/img/room-image-eight.png",
+        "name": "Kids Room",
+        "bed": 2,
+        "quantity": 2,
+        "details": "Semper ac dolor vitae accumsan. interdum hendrerit lacinia.Phasellus accumsan urna vitae molestie interdum.",
+        "price": 170
+      }
+  ]
